@@ -9,3 +9,4 @@ puts count([]) == 0
 puts count([1]) == 1
 puts count([1, 2]) == 2
 puts count([1,2,3,4]) == 4
+

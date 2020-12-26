@@ -8,3 +8,4 @@ end
 puts sum([1]) == 1
 puts sum([1, 2]) == 3
 puts sum([1,2,3,4]) == 10
+
